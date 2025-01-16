@@ -1,1 +1,1 @@
-# SceneTextRecognition
+The Scene Text Recognition problem is used to detect text appearing in images. The problem involves a combination of two models: YOLOv8 and CRNN. YOLOv8 is responsible for detecting the locations of text in the image, while CRNN is used to recognize the characters appearing in the image.
